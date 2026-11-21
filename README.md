@@ -2,10 +2,10 @@
   <img src="./profile-card.svg" alt="Amrita Bhagat — profile card" width="100%"/>
 </p>
 
-<h2 align="center">Hi, I'm Amrita 👋</h2>
+<h2 align="center">Hi, I'm Amrita </h2>
 
 <p align="center">
-  3rd-year B.Tech CSE (AI &amp; ML) student building end-to-end ML, Computer Vision, and RAG systems,<br/>
+  3rd-year B.Tech CSE (AI &amp; ML) student building end-to-end AI&ML, Computer Vision, and RAG systems,<br/>
   with GATE CS 2028 and AI/ML internships as my next milestones.
 </p>
 
