@@ -31,14 +31,3 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-3f5a85?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8fd35a)
 
-### 📂 Featured AI/ML Projects
-| Project | What it does | Highlights |
-|---|---|---|
-| **Medical Bill Decoder** | Clinical billing audit & anomaly detection web app using EasyOCR, FAISS vector search, `LLaMA 3.2`, and `HistGradientBoosting` | [🎥 Demo Video](https://drive.google.com/file/d/1h-G5Dh_CBQqEN8CQVNswVnSDA3PTZ6cv/view?usp=sharing) |
-| **Environmental AI Healthcare System** | Correlates environmental and healthcare data using CNNs for pattern detection and RAG for retrieval | Co-authored paper accepted at **ISICVA 2026** |
-| **Real-Time Sign Language Recognition** | Live hand-gesture detection and classification pipeline built with Python, OpenCV, and ML | Computer Vision |
-
-### 🤝 Open to
-AI/ML internships, research & ML project collaborations, and beginner-friendly open source.
-
-*Outside code, I paint 🎨*
