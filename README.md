@@ -16,10 +16,6 @@
 
 ---
 
-### 🔭 What I'm working on
-- Building **Medical Bill Decoder** — an AI clinical billing audit & fraud detection pipeline combining OCR, FAISS RAG (`LLaMA 3.2`), and gradient-boosted anomaly detection ([Watch Demo](https://drive.google.com/file/d/1h-G5Dh_CBQqEN8CQVNswVnSDA3PTZ6cv/view?usp=sharing))
-- Implementing core ML algorithms from scratch in NumPy and experimenting with CNNs, Computer Vision, and RAG pipelines
-- Strengthening Data Structures & Algorithms fundamentals and preparing for **GATE CS 2028**
 
 ### 🛠️ Tech & AI/ML Stack
 ![Python](https://img.shields.io/badge/Python-3f5a85?style=flat-square&logo=python&logoColor=white)
